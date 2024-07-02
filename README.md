@@ -1,12 +1,5 @@
 # Welcome to GitHub Pages
 
-# I am Yezong
-
-# Who are you?
-
-## Ye xiao xiao
-## Ye kang rui
-
 
 You can use the [editor on GitHub](https://github.com/Dwyanelittle64c/Dwyanelittle64c.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -22,9 +15,6 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-
-- **Ye xiao xiao**
-- **Ye kang rui**
 
 
 1. Numbered
